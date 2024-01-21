@@ -64,10 +64,10 @@ global.fglog = 'https://https://telegra.ph/file/14b7f04eba00e713e18cc.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Hold on babe😗❤️_*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*🖐️ _Hold on babe😗❤️_*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '🍆'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
