@@ -52,7 +52,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'JOLTER MD'
 global.premium = 'true'
-global.packname = 'JOLTER┃❤️‍🔥' 
+global.packname = '❤️‍🔥' 
 global.author = '@Jolter' 
 global.menuvid = 'https://https://telegra.ph/file/14b7f04eba00e713e18cc.jpg'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
