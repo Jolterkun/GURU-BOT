@@ -5,7 +5,7 @@ import {delay} from '@whiskeysockets/baileys'
 
 let handler = async (m, { conn, text, args, usedPrefix, command }) => {
   try {
-    if (!text) throw `uhm.. what do you want to say?`
+    if (!text) throw `uhm.. what do you want to say babe?😗❤️`
     m.react('🤖')
     //await displayLoadingScreen(conn, m.chat)
 
